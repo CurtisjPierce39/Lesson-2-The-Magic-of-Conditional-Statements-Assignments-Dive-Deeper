@@ -1,6 +1,6 @@
 #question 1 task 1
 
-number = int(input("Enter a number: ")) #input needed to be designated as integer
+number = int(input("Enter a number: ")) #input needed to be designated as integer 
 
 if number > 0:
     print("The number is positive.")
